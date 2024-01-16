@@ -11,7 +11,7 @@
 // When the user first lands the page, the background will be an illustration of a museum view
 // The illustrations are from Canva Stock by @sketchify
 // https://www.canva.com/features/free-stock-photos/
-document.body.style.backgroundImage = 'url("/assets/museum.png")';
+document.body.style.backgroundImage = 'url("assets/museum.png")';
 
 // Get the color input - HEX and convert to RGB and HSL
 const colorInput = document.getElementById('color-input');
