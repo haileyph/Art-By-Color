@@ -24,12 +24,8 @@ which is also the position of the artwork with closest color in the array of 10 
 #### Step 4: Display the artwork
 We will display the artwork with the closest color on the page.
 
-Chat-GPT helped me with the overall structure of this code.
-[Full chat link](https://chat.openai.com/share/0d0bc6f0-75e7-4989-bbdc-8efb2e20f2ad)
-
 ## Process Document
 Refer to my [document](https://sheridanc-my.sharepoint.com/:b:/g/personal/phamhang_shernet_sheridancollege_ca/EZzg_F_CCSFDqWGP2x8Nov8BXIaZXm5Ab2WqLHf8dfmAZA?e=iBKzPH) for more details.
 
 ## License
-
 [MIT](https://choosealicense.com/licenses/mit/)
